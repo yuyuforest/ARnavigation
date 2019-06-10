@@ -16,4 +16,7 @@
     <dimen name="ar_share_bottom_d45">35px</dimen>
     <dimen name="ar_share_bottom_d32">25px</dimen>
     <dimen name="ar_share_bottom_d4">3px</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
 </resources>
